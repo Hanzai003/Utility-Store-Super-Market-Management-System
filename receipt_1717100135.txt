@@ -1,0 +1,12 @@
+
+
+______________________________________________________________________________________________________________________________
+|                                                                                                                             |
+|  ProCode.     Product Name                              Quantity      Price           Amount          GST      Discount     |
+|                                                                                                                             |
+|   105       Safeguard_Total_10_Vitamin_70_Gm(10)         5            37              185             77.4     203.5     |
+|   789       CARTS_SENSON_EXCEL_REGULAR                   53           570             30210           77.4     34741.5   |
+|   662       Beef_Shami_Kabab_12_Pcs_(Yes_Mom)            2            215             430             77.4     473       |
+
+
+																 Total Amount : 36373.5

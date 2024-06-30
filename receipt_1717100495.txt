@@ -1,0 +1,12 @@
+
+
+______________________________________________________________________________________________________________________________
+|                                                                                                                             |
+|  ProCode.     Product Name                              Quantity      Price           Amount          GST      Discount     |
+|                                                                                                                             |
+|   341       Ajwa_Joshanda_5_gm_(Sachet)                  34           1               35.7            0.05     34        |
+|   134       CARESSE_H/LOTION_115_ML                      34           108             3855.6          5.4      3672      |
+|   562       BOOT_POLISH_(CHINA)                          6            4.34            27.342          0.217    26.04     |
+
+
+																 Total Amount : 7464.08

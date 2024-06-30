@@ -1,0 +1,11 @@
+
+
+______________________________________________________________________________________________________________________________
+|                                                                                                                             |
+|  ProCode.     Product Name                              Quantity      Price           Amount          GST      Discount     |
+|                                                                                                                             |
+|  101		Millac_400_gm_Pch(10)			4		235		940		47		1081		
+|  542		BODY_SPRAY_SAHARA_OUD_MAGIC_UAE_200_ml(55)			64		510		32640		1632		37536		
+
+
+																 Total Amount : 38617

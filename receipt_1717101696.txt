@@ -1,0 +1,10 @@
+
+
+______________________________________________________________________________________________________________________________
+|                                                                                                                             |
+|  ProCode.     Product Name                              Quantity      Price           Amount          GST      Discount     |
+|                                                                                                                             |
+|   555       BODY_SPRY_SAHARA_JAWAHER_UAE_200_ml(55)      5            515             2832.5          51.5     2575      |
+
+
+																 Total Amount : 5150

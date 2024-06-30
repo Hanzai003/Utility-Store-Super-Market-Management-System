@@ -1,0 +1,11 @@
+
+
+______________________________________________________________________________________________________________________________
+|                                                                                                                             |
+|  ProCode.     Product Name                              Quantity      Price           Amount          GST      Discount     |
+|                                                                                                                             |
+|   234       AGHAZ_COOKING_OIL_1x5_LTR_(For_KI_Zone)      34           190             6783            9.5      6460      |
+|   544       BODY_SPRAY_SUPER_STORM_FOR_MEN_BULL_POWER_TURKEY_150_ml(55)67           298             20964.3         14.9     19966     |
+
+
+																 Total Amount : 52852
